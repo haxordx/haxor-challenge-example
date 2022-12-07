@@ -1,4 +1,3 @@
-<img height="100" alt="CleanShot 2022-12-07 at 13 34 56@2x" src="https://user-images.githubusercontent.com/318295/206278452-7823741a-8910-4c4c-8e9b-693cd1141052.png">
 
 # Tesseract.js Haxor Challenge
 
